@@ -25,7 +25,7 @@
   Contributor to the innovative Bolt.diy platform.
 - 🛠️ **[Webcontainer](https://github.com/thecodacus/OpenWebContainer)**  
   Open contributor, empowering browser-based coding environments.
-- 🤖 **Catalyst AI (https://github.com/thecodacus/catalyst)**  
+- 🤖 **[Catalyst AI](https://github.com/thecodacus/catalyst)**  
   Exploring the frontier of Generative AI agents and tools.
 - ⭐ **[RIATA-1](https://github.com/thecodacus/catalyst)**  
   Advanced engineering for smart solutions.
