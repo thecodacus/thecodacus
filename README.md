@@ -1,16 +1,50 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/thecodacus.png" width="120" style="border-radius:50%;" alt="thecodacus avatar"/>
+</p>
 
-<!--
-**thecodacus/thecodacus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Anirban (thecodacus) 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Software Engineer | Full Stack JavaScript & Python | Generative AI Agent Enthusiast</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 💻 **Profession:** Software Engineer  
+- 🛠️ **Top Skills:** Full Stack JavaScript, Python, Generative AI Agents  
+- ⚡ **Technologies:** JavaScript, TypeScript,React, Next.js  
+- 🧠 **Interests:** Building open AI agents, advancing full-stack web technologies, and contributing to OSS
+
+---
+
+### 🌟 Featured Projects
+
+- 🔥 **[Bolt.diy](https://github.com/stackblitz-labs/bolt.diy)**  
+  Contributor to the innovative Bolt.diy platform.
+- 🛠️ **[Webcontainer](https://github.com/thecodacus/OpenWebContainer)**  
+  Open contributor, empowering browser-based coding environments.
+- 🤖 **Catalyst AI**  
+  Exploring the frontier of Generative AI agents and tools.
+- ⭐ **[RIATA-1](https://github.com/thecodacus/catalyst)**  
+  Advanced engineering for smart solutions.
+---
+
+### 🏆 Achievements
+
+- 🥇 Proud contributor to the **Bolt.diy Project**
+- 👨‍💻 Active in OSS and generative AI communities
+
+---
+
+### 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/anirban-kar-developer/)
+- [GitHub](https://github.com/thecodacus)
+
+---
+
+<p align="center">
+  <em>“Code. Create. Collaborate. Always learning.”</em>
+</p>
